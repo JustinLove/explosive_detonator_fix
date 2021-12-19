@@ -1,6 +1,6 @@
 <Mod
-	name="Noita Bugfix"
-	description="Fixes an error in Explosive Detonator\nLet me know if you find any other outright errors in the code."
+	name="Explosive Detonator Fix"
+	description="Fixes a syntax error in Explosive Detonator."
 	request_no_api_restrictions="0" 
 > 
 </Mod>
