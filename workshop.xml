@@ -1,0 +1,7 @@
+<Mod
+  name="Explosive Detonator Fix"
+  description="Fixes a syntax error Explosive Detonator which prevents it from activating when when certain non-explosive player projectiles are present."
+  dont_upload_folders="work"
+  tags="quality of life, spells, tweaks"
+> 
+</Mod>
